@@ -1,0 +1,2 @@
+# tata-syn
+wspolny projekt
